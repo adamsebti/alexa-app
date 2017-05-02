@@ -1,0 +1,31 @@
+Service {ServiceName}
+
+Update give me an update
+Update update me
+Update update
+
+WhatCanISay what can I say
+WhatCanISay help
+WhatCanISay instructions
+
+Exit exit skill
+Exit quit skill
+Exit back to work
+Exit stop
+Exit off
+Exit shut up
+Exit no more
+
+Repeat start again
+Repeat start over
+Repeat say that again
+Repeat say the post again
+Repeat repeat
+
+More more
+More give me more
+More content
+
+TopComment top comment
+TopComment give me the top comment
+TopComment give me a comment

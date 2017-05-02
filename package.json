@@ -1,0 +1,11 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "author": "",
+  "dependencies": {
+    "snoowrap": "latest"
+    },
+  "license": "ISC"
+}

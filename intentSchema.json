@@ -1,0 +1,40 @@
+{
+    "intents": [{
+            "intent": "Service",
+            "slots": [{
+                "name": "ServiceName",
+                "type": "LIST_OF_SERVICES"
+            }]
+        },
+        {
+            "intent": "Update"
+        },
+        {
+            "intent": "Site"
+        },
+        {
+            "intent": "Comment"
+        },
+        {
+            "intent": "Repeat"
+        },
+        {
+            "intent": "More"
+        },
+        {
+            "intent": "TopComment"
+        },
+        {
+            "intent": "RandomComment"
+        },
+        {
+            "intent": "WhatCanISay"
+        },
+        {
+            "intent": "Unhandled"
+        },
+        {
+            "intent": "Exit"
+        }
+    ]
+}
